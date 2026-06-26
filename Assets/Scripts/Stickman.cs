@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class Stickman : MonoBehaviour
@@ -17,17 +18,37 @@ public class Stickman : MonoBehaviour
     public GameObject canvas;
     private bool processingOnit = false;
     public  GameObject[] dead_Fx;
+    public Text countDown;
+    public Text score;
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
         Stopper = GameObject.FindWithTag("Use");
+
+        StartCoroutine(CountdownRoutine()); // kick off countdown here
+    }
+    IEnumerator CountdownRoutine()
+    {
+        countDown.text = "READY !";
+        yield return new WaitForSeconds(1f); // show "READY" for 1 second
+
+        for (int count = 3; count > 0; count--)
+        {
+            countDown.text = "" + count;
+            yield return new WaitForSeconds(1f); // wait 1 second between each number
+        }
+
+        countDown.text = "GO !";
+        yield return new WaitForSeconds(0.2f);
+        countDown.gameObject.SetActive(false);
         dead_Fx[2].SetActive(true);
+        score.gameObject.SetActive(true);
     }
 
     void Update()
     {
-       
+
         if (Input.GetMouseButtonDown(0))
         {
             Jump();
