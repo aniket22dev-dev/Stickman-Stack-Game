@@ -1,0 +1,10 @@
+# ninja log v5
+54	5376	8042007825550345	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8c203df8dce75d25
+70	5393	8042007825653365	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b4db65e0e65ad79
+127	5425	8042007826659400	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4da796955136f1d
+1	5466	8042007825834957	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b70eff09de825c40
+16	5540	8042007827751281	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	37278c2a11fbfe17
+113	6047	8042007832539232	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f94f7c8db3699566
+88	6364	8042007835802391	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a420593745113259
+35	6470	8042007836874571	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	743beea503855ffd
+6470	6696	8042007839234797	C:/Users/risha/Downloads/Stickman-Stack-Game-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/341a4n38/obj/arm64-v8a/libgame.so	fc928afc52d3aedd
