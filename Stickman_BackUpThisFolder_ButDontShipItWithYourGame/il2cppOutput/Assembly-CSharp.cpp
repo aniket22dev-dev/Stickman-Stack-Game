@@ -306,10 +306,10 @@ struct U3CWarpTextU3Ed__7_t81F532662DA2606D7C0F4196B3804AB983C30508;
 struct U3CU3Ec_t7EC524DD4BF9EAF1E4931BA7FF4FE194C9B8261D;
 struct U3CSpawnRoutineU3Ed__15_t47EA45CDE08957DEFF2B08A8C6FE8D34DF449234;
 struct U3CRebot_U3Ed__12_tB9611F42D2C3FFCAA45C79FEB49FC4257DF49A38;
-struct U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892;
-struct U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423;
-struct U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0;
-struct U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65;
+struct U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7;
+struct U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300;
+struct U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935;
+struct U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C;
 struct DropdownEvent_tFD4609E80240BC887A6D31F9F3C252A8A6843E91;
 struct OptionData_tFDFBCB4A5FB860E95AE46FDAC112DB4140A8525E;
 struct OptionDataList_tF66EA4801BFA499F010E6EFF89ED760BF4F0BEE1;
@@ -363,14 +363,14 @@ IL2CPP_EXTERN_C RuntimeClass* TMP_TextUtilities_tD7ED516E31C2AA0EB607D587C0BB0FE
 IL2CPP_EXTERN_C RuntimeClass* TMPro_EventManager_t0234DB5BF625FC164B395C5C3B6F2CB8C89A3BA9_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* TextMeshProFloatingText_t833773B79A4826E78EDF2799C157B0EC3ACACB31_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CAnimatePropertiesU3Ed__6_tF5A2F267919D456EDB1730E0AF6F8776728475FB_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CDisplayTextMeshFloatingTextU3Ed__16_t5CBD7868EB4D3D561D539B99B4541CC014DFF5F0_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CDisplayTextMeshProFloatingTextU3Ed__15_tDFD30981C9C1189D2AC3AA6C07DA7EFE7E1694F3_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CRebot_U3Ed__12_tB9611F42D2C3FFCAA45C79FEB49FC4257DF49A38_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CRevealCharactersU3Ed__7_tB14F85C7FC57BEFD555A1A9CD8D3FF41E0F676F9_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CRevealWordsU3Ed__8_t912CFD430C602C79AE6BC1BC6C4AEBF101B4D7C8_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CSpawnRoutineU3Ed__15_t47EA45CDE08957DEFF2B08A8C6FE8D34DF449234_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CStartU3Ed__10_t06713955D554742C727996BE112A81AD0BCF3D00_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CStartU3Ed__10_tB81FF4C98E539AF1EEA095D6A6C11409A26E7819_il2cpp_TypeInfo_var;
@@ -378,7 +378,7 @@ IL2CPP_EXTERN_C RuntimeClass* U3CStartU3Ed__4_t34C4F7117E4A5E63F9D03A9DD3C2493CE
 IL2CPP_EXTERN_C RuntimeClass* U3CStartU3Ed__4_t7AF0F1ABA8D3AE9575A02603D2DC2137FA816557_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec_t7EC524DD4BF9EAF1E4931BA7FF4FE194C9B8261D_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CWarpTextU3Ed__7_t81F532662DA2606D7C0F4196B3804AB983C30508_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* UnityAction_1_t690494F0E492A2098660E28B8EB7D71B2C69BE1B_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* UnityAction_1_tA5B7125BEF9EB3092B91D1E2AA64249C44903A60_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* UnityAction_2_t2654BCB968A8286196F6268276089A674B0A9007_il2cpp_TypeInfo_var;
@@ -536,14 +536,14 @@ IL2CPP_EXTERN_C const RuntimeMethod* TMP_TextEventCheck_OnWordSelection_m180B102
 IL2CPP_EXTERN_C const RuntimeMethod* TMP_TextSelector_B_ON_TEXT_CHANGED_m5B53EF1608E98B6A56AAA386085A3216B35A51EE_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* TextConsoleSimulator_ON_TEXT_CHANGED_m050ECF4852B6A82000133662D6502577DFD57C3A_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CAnimatePropertiesU3Ed__6_System_Collections_IEnumerator_Reset_m1C76BF8EAC2CDC2BAC58755622763B9318DA51CA_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CCountdownRoutineU3Ed__16_System_Collections_IEnumerator_Reset_mBD15D162FF048178D00E22B5EC7BA62E647AEDE9_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CCountdownRoutineU3Ed__15_System_Collections_IEnumerator_Reset_m450285B928F8DE3BF6E24917CE9D01B14E811ABD_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CDisplayTextMeshFloatingTextU3Ed__16_System_Collections_IEnumerator_Reset_m5A7148435B35A0A84329416FF765D45F6AA0F4E1_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CDisplayTextMeshProFloatingTextU3Ed__15_System_Collections_IEnumerator_Reset_mCCE19093B7355F3E23834E27A8517661DF833797_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CRebot_U3Ed__12_System_Collections_IEnumerator_Reset_mD2D77944D6C34EDAF8846B49F6A7E8991576945A_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CResetOnitGuardU3Ed__22_System_Collections_IEnumerator_Reset_m3202E7A71A6C3708B2D74A9EA4B1A94267B4D16B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CResetOnitGuardU3Ed__21_System_Collections_IEnumerator_Reset_mA82D66A052DBF1190FD496DAC56D0779630A903B_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CRevealCharactersU3Ed__7_System_Collections_IEnumerator_Reset_mD12057609EFCBCA8E7B61B0421D4A7C5A206C8C3_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CRevealWordsU3Ed__8_System_Collections_IEnumerator_Reset_mE5E0678716735BDF0D632FE43E392981E75A1C4D_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CRunfxU3Ed__18_System_Collections_IEnumerator_Reset_mDD87FB7737E96F02289163CD367F8684EB8338EB_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CRunfxU3Ed__17_System_Collections_IEnumerator_Reset_m9AD7FDB72813DE3B7CD542775F5B9B867671E63A_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CSpawnRoutineU3Ed__15_System_Collections_IEnumerator_Reset_mE4DFF3EC2C96769B2986F0F847173D7AB933FFC8_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CStartU3Ed__10_System_Collections_IEnumerator_Reset_m553F892690ED74A33F57B1359743D31F8BB93C2A_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CStartU3Ed__10_System_Collections_IEnumerator_Reset_mC9F90586F057E3728D9F93BB0E12197C9B994EEA_RuntimeMethod_var;
@@ -551,7 +551,7 @@ IL2CPP_EXTERN_C const RuntimeMethod* U3CStartU3Ed__4_System_Collections_IEnumera
 IL2CPP_EXTERN_C const RuntimeMethod* U3CStartU3Ed__4_System_Collections_IEnumerator_Reset_m9B7AEE80C1E70D2D2FF5811A54AFD6189CD7F5A9_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec_U3CSpawnerU3Eb__18_0_m97E81DC265820FBAAECA7341AF143C025D7C4EDF_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CWarpTextU3Ed__7_System_Collections_IEnumerator_Reset_mB6C5974E8F57160AE544E1D2FD44621EEF3ACAB5_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CloadSceneU3Ed__24_System_Collections_IEnumerator_Reset_mA2502F774A531D5F2EFD06DB4A5C9C37B2C3184B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CloadSceneU3Ed__23_System_Collections_IEnumerator_Reset_m0C69CAB659DB6BABCECEA40C93870E9187220506_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* UnityEvent_1_AddListener_m846E66E06483E90ED947176C8DB2BE23495A93AE_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* UnityEvent_1_AddListener_mEC384A8CFC5D4D41B62B08248A738CF61B82172F_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* UnityEvent_1_RemoveListener_m580353A1B030A82D1205B9BA94CF3484866C027F_RuntimeMethod_var;
@@ -784,26 +784,26 @@ struct U3CRebot_U3Ed__12_tB9611F42D2C3FFCAA45C79FEB49FC4257DF49A38  : public Run
 	RuntimeObject* ___U3CU3E2__current;
 	Stack_tFE1C1B3D3735D0958EEC34DD871906269840F3D3* ___U3CU3E4__this;
 };
-struct U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892  : public RuntimeObject
+struct U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7  : public RuntimeObject
 {
 	int32_t ___U3CU3E1__state;
 	RuntimeObject* ___U3CU3E2__current;
 	Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* ___U3CU3E4__this;
 	int32_t ___U3CcountU3E5__2;
 };
-struct U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423  : public RuntimeObject
+struct U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300  : public RuntimeObject
 {
 	int32_t ___U3CU3E1__state;
 	RuntimeObject* ___U3CU3E2__current;
 	Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* ___U3CU3E4__this;
 };
-struct U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0  : public RuntimeObject
+struct U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935  : public RuntimeObject
 {
 	int32_t ___U3CU3E1__state;
 	RuntimeObject* ___U3CU3E2__current;
 	Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* ___U3CU3E4__this;
 };
-struct U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65  : public RuntimeObject
+struct U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C  : public RuntimeObject
 {
 	int32_t ___U3CU3E1__state;
 	RuntimeObject* ___U3CU3E2__current;
@@ -2974,7 +2974,6 @@ struct Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977  : public MonoBehaviou
 	GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* ___dead_Fx;
 	Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* ___countDown;
 	Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* ___score;
-	int32_t ___getStart;
 };
 struct StickmanColor_Menu_tCCE74EACEBA391A13F0379EFC0E652EE4F100E28  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
 {
@@ -4787,11 +4786,11 @@ inline Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* Component_GetComponen
 	return ((  Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
 }
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Stickman_CountdownRoutine_m8EC66B11FC650DA0FA1464A3FE66776FA4ABB0BF (Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* __this, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCountdownRoutineU3Ed__16__ctor_mC7F3961DF3EC37F6057F335C15CC073C63ADB8C3 (U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCountdownRoutineU3Ed__15__ctor_mE6C2C4AED50637B23F8BF604BE1DC4163236FFE1 (U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Input_GetMouseButtonDown_m8DFC792D15FFF15D311614D5CC6C5D055E5A1DE3 (int32_t ___0_button, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_Jump_m6A83549794D81842453E19299F1A277371765575 (Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Stickman_Runfx_m1F08F50BDCC5C2EA7A066DF4420AAAAABB26FA8E (Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* __this, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CRunfxU3Ed__18__ctor_m96AB43A9606E49CF2E36680C7C79EF50CD2C6BBE (U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CRunfxU3Ed__17__ctor_m8D503E4822421AF85D452A6B75C25C11429C00B2 (U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_up_m128AF3FDC820BF59D5DE86D973E7DE3F20C3AEBA_inline (const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_AddForce_mBDBC288D0E266BC1B62E3649B4FCE46E7EA9CCBC (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_force, int32_t ___1_mode, const RuntimeMethod* method) ;
@@ -4809,8 +4808,8 @@ inline CapsuleCollider_t3A1671C74F0836ABEF5D01A7470B5B2BE290A808* Component_GetC
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Collider_set_enabled_m8D5C3B5047592D227A52560FC9723D176E209F70 (Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* __this, bool ___0_value, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_SaveHighScore_m2D8EE0E26EBF31EE9245AE80808398FC11372623 (Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Stickman_loadScene_m20A8A9B1BC397D3107A835557535B1EDEA1447E7 (Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* __this, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CResetOnitGuardU3Ed__22__ctor_mBF3FC873073EA897E4223527ED56E42731DDBC17 (U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CloadSceneU3Ed__24__ctor_m9423B472E3F783FD3759DEAFD3D1D92C0A7E7021 (U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CResetOnitGuardU3Ed__21__ctor_m9343858251B4E546126E36CBB77D7A16BC4C2311 (U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CloadSceneU3Ed__23__ctor_mD3749E63466C4913EF74FC4A3E354FDD5C841EF8 (U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_useGravity_m1B1B22E093F9DC92D7BEEBBE6B02642B3B6C4389 (Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* __this, bool ___0_value, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SceneManager_LoadScene_mBB3DBC1601A21F8F4E8A5D68FED30EA9412F218E (String_t* ___0_sceneName, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StickmanColor_Menu_Exit_m6B63BD4EAC29CB2D5EAEA67B107DB9AFB2117264 (StickmanColor_Menu_tCCE74EACEBA391A13F0379EFC0E652EE4F100E28* __this, const RuntimeMethod* method) ;
@@ -7855,27 +7854,27 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_Start_mF22AA2D368A2F8316A7411DA
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:26>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:25>
 		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_0;
 		L_0 = Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8(__this, Component_GetComponent_TisRigidbody_t268697F5A994213ED97393309870968BC1C7393C_m4B5CAD64B52D153BEA96432633CA9A45FA523DD8_RuntimeMethod_var);
 		__this->___rb = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___rb), (void*)L_0);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:27>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:26>
 		Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* L_1;
 		L_1 = Component_GetComponent_TisAnimator_t8A52E42AE54F76681838FE9E632683EF3952E883_m1C9FCB4BBE56BEC6BDEF6E4BA1E5DFF91614D7CE(__this, Component_GetComponent_TisAnimator_t8A52E42AE54F76681838FE9E632683EF3952E883_m1C9FCB4BBE56BEC6BDEF6E4BA1E5DFF91614D7CE_RuntimeMethod_var);
 		__this->___anim = L_1;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___anim), (void*)L_1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:28>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:27>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2;
 		L_2 = GameObject_FindWithTag_mDF825E000B03F4F3DE9D4F2EBABC96BFA34B62E5(_stringLiteralDE4C398DD65524A08F3458DBBE587F3A08FAFCB1, NULL);
 		__this->___Stopper = L_2;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___Stopper), (void*)L_2);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:30>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:29>
 		RuntimeObject* L_3;
 		L_3 = Stickman_CountdownRoutine_m8EC66B11FC650DA0FA1464A3FE66776FA4ABB0BF(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_4;
 		L_4 = MonoBehaviour_StartCoroutine_m4CAFF732AA28CD3BDC5363B44A863575530EC812(__this, L_3, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:31>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:30>
 		return;
 	}
 }
@@ -7885,13 +7884,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Stickman_CountdownRoutine_m8EC
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892* L_0 = (U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892*)il2cpp_codegen_object_new(U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892_il2cpp_TypeInfo_var);
-		U3CCountdownRoutineU3Ed__16__ctor_mC7F3961DF3EC37F6057F335C15CC073C63ADB8C3(L_0, 0, NULL);
-		U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892* L_1 = L_0;
+		U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7* L_0 = (U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7*)il2cpp_codegen_object_new(U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7_il2cpp_TypeInfo_var);
+		U3CCountdownRoutineU3Ed__15__ctor_mE6C2C4AED50637B23F8BF604BE1DC4163236FFE1(L_0, 0, NULL);
+		U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7* L_1 = L_0;
 		NullCheck(L_1);
 		L_1->___U3CU3E4__this = __this;
 		Il2CppCodeGenWriteBarrier((void**)(&L_1->___U3CU3E4__this), (void*)__this);
@@ -7904,7 +7903,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_Update_m821DD4F3631F0FA5E998A2F
 	GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* V_0 = NULL;
 	int32_t V_1 = 0;
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:53>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:52>
 		bool L_0;
 		L_0 = Input_GetMouseButtonDown_m8DFC792D15FFF15D311614D5CC6C5D055E5A1DE3(0, NULL);
 		if (!L_0)
@@ -7913,15 +7912,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_Update_m821DD4F3631F0FA5E998A2F
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:55>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:54>
 		Stickman_Jump_m6A83549794D81842453E19299F1A277371765575(__this, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:56>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:55>
 		__this->___impact = (bool)1;
 	}
 
 IL_0015:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:59>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:58>
 		bool L_1 = __this->___impact;
 		if (L_1)
 		{
@@ -7929,7 +7928,7 @@ IL_0015:
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:61>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:60>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_2 = __this->___impact_fx;
 		V_0 = L_2;
 		V_1 = 0;
@@ -7938,13 +7937,13 @@ IL_0015:
 
 IL_0028:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:61>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:60>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_3 = V_0;
 		int32_t L_4 = V_1;
 		NullCheck(L_3);
 		int32_t L_5 = L_4;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_6 = (L_3)->GetAt(static_cast<il2cpp_array_size_t>(L_5));
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:62>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:61>
 		NullCheck(L_6);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_6, (bool)0, NULL);
 		int32_t L_7 = V_1;
@@ -7953,7 +7952,7 @@ IL_0028:
 
 IL_0035:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:61>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:60>
 		int32_t L_8 = V_1;
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_9 = V_0;
 		NullCheck(L_9);
@@ -7965,7 +7964,7 @@ IL_0035:
 
 IL_003b:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:65>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:64>
 		bool L_10 = __this->___isGrounded;
 		if (!L_10)
 		{
@@ -7980,7 +7979,7 @@ IL_003b:
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:66>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:65>
 		RuntimeObject* L_12;
 		L_12 = Stickman_Runfx_m1F08F50BDCC5C2EA7A066DF4420AAAAABB26FA8E(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_13;
@@ -7989,7 +7988,7 @@ IL_003b:
 
 IL_0058:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:67>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:66>
 		return;
 	}
 }
@@ -7999,13 +7998,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Stickman_Runfx_m1F08F50BDCC5C2
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0* L_0 = (U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0*)il2cpp_codegen_object_new(U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0_il2cpp_TypeInfo_var);
-		U3CRunfxU3Ed__18__ctor_m96AB43A9606E49CF2E36680C7C79EF50CD2C6BBE(L_0, 0, NULL);
-		U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0* L_1 = L_0;
+		U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935* L_0 = (U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935*)il2cpp_codegen_object_new(U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935_il2cpp_TypeInfo_var);
+		U3CRunfxU3Ed__17__ctor_m8D503E4822421AF85D452A6B75C25C11429C00B2(L_0, 0, NULL);
+		U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935* L_1 = L_0;
 		NullCheck(L_1);
 		L_1->___U3CU3E4__this = __this;
 		Il2CppCodeGenWriteBarrier((void**)(&L_1->___U3CU3E4__this), (void*)__this);
@@ -8022,7 +8021,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_Jump_m6A83549794D81842453E19299
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:79>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:78>
 		bool L_0 = __this->___isGrounded;
 		if (!L_0)
 		{
@@ -8030,7 +8029,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_Jump_m6A83549794D81842453E19299
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:81>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:80>
 		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_1 = __this->___rb;
 		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_2;
 		L_2 = Vector3_get_up_m128AF3FDC820BF59D5DE86D973E7DE3F20C3AEBA_inline(NULL);
@@ -8039,17 +8038,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_Jump_m6A83549794D81842453E19299
 		L_4 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_2, L_3, NULL);
 		NullCheck(L_1);
 		Rigidbody_AddForce_mBDBC288D0E266BC1B62E3649B4FCE46E7EA9CCBC(L_1, L_4, 1, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:82>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:81>
 		Animator_t8A52E42AE54F76681838FE9E632683EF3952E883* L_5 = __this->___anim;
 		NullCheck(L_5);
 		Animator_SetTrigger_mC9CD54D627C8843EF6E159E167449D216EF6EB30(L_5, _stringLiteral70253F929BCE7F81DF1A5A1C0900BED744E86C9C, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:83>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:82>
 		__this->___isGrounded = (bool)0;
 	}
 
 IL_003b:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:85>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:84>
 		return;
 	}
 }
@@ -8063,7 +8062,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_OnCollisionEnter_m33722A78E7821
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:89>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:88>
 		Collision_tBCC6AEBD9A63E6DA2E50660DAC03CDCB1FF7A9B0* L_0 = ___0_collision;
 		NullCheck(L_0);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1;
@@ -8077,13 +8076,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_OnCollisionEnter_m33722A78E7821
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:90>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:89>
 		__this->___isGrounded = (bool)1;
 	}
 
 IL_0019:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:91>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:90>
 		return;
 	}
 }
@@ -8116,7 +8115,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_OnTriggerEnter_m55E4841AE1FE01B
 	int32_t G_B9_0 = 0;
 	float G_B12_0 = 0.0f;
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:95>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:94>
 		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_0 = ___0_other;
 		NullCheck(L_0);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1;
@@ -8139,11 +8138,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_OnTriggerEnter_m55E4841AE1FE01B
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:97>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:96>
 		__this->___processingOnit = (bool)1;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:98>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:97>
 		__this->___isGrounded = (bool)1;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:100>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:99>
 		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_5 = ___0_other;
 		NullCheck(L_5);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_6;
@@ -8155,16 +8154,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_OnTriggerEnter_m55E4841AE1FE01B
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_8;
 		L_8 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_7, NULL);
 		V_0 = L_8;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:101>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:100>
 		List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B* L_9 = __this->___cubes;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_10 = V_0;
 		NullCheck(L_9);
 		List_1_Add_m43FBF207375C6E06B8C45ECE614F9B8008FB686E_inline(L_9, L_10, List_1_Add_m43FBF207375C6E06B8C45ECE614F9B8008FB686E_RuntimeMethod_var);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:103>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:102>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_11;
 		L_11 = GameObject_FindWithTag_mDF825E000B03F4F3DE9D4F2EBABC96BFA34B62E5(_stringLiteralE3C978943D91129E7754AF2222FF3543225B2568, NULL);
 		V_1 = L_11;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:104>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:103>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_12 = V_1;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_13;
@@ -8175,7 +8174,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_OnTriggerEnter_m55E4841AE1FE01B
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:105>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:104>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_14 = V_1;
 		NullCheck(L_14);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_14, (bool)0, NULL);
@@ -8183,20 +8182,20 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_OnTriggerEnter_m55E4841AE1FE01B
 
 IL_006b:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:107>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:106>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_15 = V_0;
 		NullCheck(L_15);
 		Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* L_16;
 		L_16 = GameObject_GetComponent_TisMove_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4_mC35E50B6489B42884F706AE7EB817DB842365781(L_15, GameObject_GetComponent_TisMove_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4_mC35E50B6489B42884F706AE7EB817DB842365781_RuntimeMethod_var);
 		NullCheck(L_16);
 		L_16->___IsMove = (bool)0;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:109>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:108>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_17 = __this->___Stopper;
 		NullCheck(L_17);
 		Stack_tFE1C1B3D3735D0958EEC34DD871906269840F3D3* L_18;
 		L_18 = GameObject_GetComponent_TisStack_tFE1C1B3D3735D0958EEC34DD871906269840F3D3_m8785A8A885B3401D17CB6CF426F802F2CE6AFC54(L_17, GameObject_GetComponent_TisStack_tFE1C1B3D3735D0958EEC34DD871906269840F3D3_m8785A8A885B3401D17CB6CF426F802F2CE6AFC54_RuntimeMethod_var);
 		V_2 = L_18;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:110>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:109>
 		Stack_tFE1C1B3D3735D0958EEC34DD871906269840F3D3* L_19 = V_2;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_20;
@@ -8216,7 +8215,7 @@ IL_006b:
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:112>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:111>
 		Stack_tFE1C1B3D3735D0958EEC34DD871906269840F3D3* L_23 = V_2;
 		NullCheck(L_23);
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_24 = L_23->___Stacker;
@@ -8227,13 +8226,13 @@ IL_006b:
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_27;
 		L_27 = GameObject_get_transform_m0BC10ADFA1632166AE5544BDF9038A2650C2AE56(L_26, NULL);
 		V_3 = L_27;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:115>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:114>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_28 = V_0;
 		NullCheck(L_28);
 		PrefabDirection_t73063AC0F32E4E8E011F60C95C3922F877172215* L_29;
 		L_29 = GameObject_GetComponent_TisPrefabDirection_t73063AC0F32E4E8E011F60C95C3922F877172215_mE9B4179BE592D92671A57FDD427DF34A0962FF3E(L_28, GameObject_GetComponent_TisPrefabDirection_t73063AC0F32E4E8E011F60C95C3922F877172215_mE9B4179BE592D92671A57FDD427DF34A0962FF3E_RuntimeMethod_var);
 		V_4 = L_29;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:116>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:115>
 		PrefabDirection_t73063AC0F32E4E8E011F60C95C3922F877172215* L_30 = V_4;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_31;
@@ -8258,7 +8257,7 @@ IL_00b7:
 
 IL_00be:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:120>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:119>
 		if (G_B9_0)
 		{
 			goto IL_00c7;
@@ -8277,11 +8276,11 @@ IL_00c7:
 IL_00cc:
 	{
 		V_5 = G_B12_0;
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:121>
 		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:122>
 		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:123>
 		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:124>
 		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:125>
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:126>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_34 = V_3;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_35 = V_0;
 		NullCheck(L_35);
@@ -8307,7 +8306,7 @@ IL_00cc:
 		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_46), ((float)il2cpp_codegen_add(L_38, L_39)), L_42, L_45, NULL);
 		NullCheck(L_34);
 		Transform_set_position_mA1A817124BB41B685043DED2A9BA48CDF37C4156(L_34, L_46, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:128>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:127>
 		Stack_tFE1C1B3D3735D0958EEC34DD871906269840F3D3* L_47 = V_2;
 		NullCheck(L_47);
 		Stack_Stacked_mC8433CEE97D31B3DF974F8ED3579EFD83B0FDA5D(L_47, NULL);
@@ -8315,14 +8314,14 @@ IL_00cc:
 
 IL_0108:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:131>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:130>
 		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_48 = ___0_other;
 		NullCheck(L_48);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_49;
 		L_49 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_48, NULL);
 		NullCheck(L_49);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_49, (bool)0, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:132>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:131>
 		RuntimeObject* L_50;
 		L_50 = Stickman_ResetOnitGuard_m020984AB709BC8CE2940A3FAAF5F7A9F414CC504(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_51;
@@ -8331,7 +8330,7 @@ IL_0108:
 
 IL_0121:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:135>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:134>
 		Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76* L_52 = ___0_other;
 		NullCheck(L_52);
 		String_t* L_53;
@@ -8344,19 +8343,19 @@ IL_0121:
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:137>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:136>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_55;
 		L_55 = GameObject_FindGameObjectsWithTag_mB8AA805DA664EF0221BB338446014F662771B4E3(_stringLiteral17856F2926B28A7336A4ADFB3FF054CF9415075E, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:138>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:137>
 		CapsuleCollider_t3A1671C74F0836ABEF5D01A7470B5B2BE290A808* L_56;
 		L_56 = Component_GetComponent_TisCapsuleCollider_t3A1671C74F0836ABEF5D01A7470B5B2BE290A808_mC720996E0DB5E6A502714EF651E9251726CB636E(__this, Component_GetComponent_TisCapsuleCollider_t3A1671C74F0836ABEF5D01A7470B5B2BE290A808_mC720996E0DB5E6A502714EF651E9251726CB636E_RuntimeMethod_var);
 		NullCheck(L_56);
 		Collider_set_enabled_m8D5C3B5047592D227A52560FC9723D176E209F70(L_56, (bool)0, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:139>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:138>
 		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_57 = __this->___rb;
 		NullCheck(L_57);
 		Rigidbody_set_constraints_mE81BF0DAEB980E320538231E092CA4663885A9A3(L_57, 0, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:140>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:139>
 		V_6 = L_55;
 		V_7 = 0;
 		goto IL_0186;
@@ -8364,21 +8363,21 @@ IL_0121:
 
 IL_015f:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:140>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:139>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_58 = V_6;
 		int32_t L_59 = V_7;
 		NullCheck(L_58);
 		int32_t L_60 = L_59;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_61 = (L_58)->GetAt(static_cast<il2cpp_array_size_t>(L_60));
 		V_8 = L_61;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:142>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:141>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_62 = V_8;
 		NullCheck(L_62);
 		Move_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4* L_63;
 		L_63 = GameObject_GetComponent_TisMove_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4_mC35E50B6489B42884F706AE7EB817DB842365781(L_62, GameObject_GetComponent_TisMove_t854202AD2D0D0CBADCAA68583489F1054C5BC0E4_mC35E50B6489B42884F706AE7EB817DB842365781_RuntimeMethod_var);
 		NullCheck(L_63);
 		L_63->___IsMove = (bool)0;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:143>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:142>
 		List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B* L_64 = __this->___cubes;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_65 = V_8;
 		NullCheck(L_64);
@@ -8389,7 +8388,7 @@ IL_015f:
 
 IL_0186:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:140>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:139>
 		int32_t L_67 = V_7;
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_68 = V_6;
 		NullCheck(L_68);
@@ -8399,11 +8398,11 @@ IL_0186:
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:146>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:145>
 		Stickman_SaveHighScore_m2D8EE0E26EBF31EE9245AE80808398FC11372623(__this, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:147>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:146>
 		__this->___jumpForce = (0.0f);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:148>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:147>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_69 = __this->___player_Body;
 		V_6 = L_69;
 		V_7 = 0;
@@ -8412,27 +8411,27 @@ IL_0186:
 
 IL_01ac:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:148>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:147>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_70 = V_6;
 		int32_t L_71 = V_7;
 		NullCheck(L_70);
 		int32_t L_72 = L_71;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_73 = (L_70)->GetAt(static_cast<il2cpp_array_size_t>(L_72));
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:150>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:149>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_74 = __this->___dead_Fx;
 		NullCheck(L_74);
 		int32_t L_75 = 0;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_76 = (L_74)->GetAt(static_cast<il2cpp_array_size_t>(L_75));
 		NullCheck(L_76);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_76, (bool)1, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:151>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:150>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_77 = __this->___dead_Fx;
 		NullCheck(L_77);
 		int32_t L_78 = 1;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_79 = (L_77)->GetAt(static_cast<il2cpp_array_size_t>(L_78));
 		NullCheck(L_79);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_79, (bool)1, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:152>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:151>
 		NullCheck(L_73);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_73, (bool)0, NULL);
 		int32_t L_80 = V_7;
@@ -8441,7 +8440,7 @@ IL_01ac:
 
 IL_01d9:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:148>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:147>
 		int32_t L_81 = V_7;
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_82 = V_6;
 		NullCheck(L_82);
@@ -8451,7 +8450,7 @@ IL_01d9:
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:154>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:153>
 		RuntimeObject* L_83;
 		L_83 = Stickman_loadScene_m20A8A9B1BC397D3107A835557535B1EDEA1447E7(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_84;
@@ -8460,7 +8459,7 @@ IL_01d9:
 
 IL_01ee:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:156>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:155>
 		return;
 	}
 }
@@ -8470,13 +8469,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Stickman_ResetOnitGuard_m02098
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423* L_0 = (U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423*)il2cpp_codegen_object_new(U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423_il2cpp_TypeInfo_var);
-		U3CResetOnitGuardU3Ed__22__ctor_mBF3FC873073EA897E4223527ED56E42731DDBC17(L_0, 0, NULL);
-		U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423* L_1 = L_0;
+		U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300* L_0 = (U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300*)il2cpp_codegen_object_new(U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300_il2cpp_TypeInfo_var);
+		U3CResetOnitGuardU3Ed__21__ctor_m9343858251B4E546126E36CBB77D7A16BC4C2311(L_0, 0, NULL);
+		U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300* L_1 = L_0;
 		NullCheck(L_1);
 		L_1->___U3CU3E4__this = __this;
 		Il2CppCodeGenWriteBarrier((void**)(&L_1->___U3CU3E4__this), (void*)__this);
@@ -8495,11 +8494,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_SaveHighScore_m2D8EE0E26EBF31EE
 	}
 	int32_t V_0 = 0;
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:167>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:166>
 		int32_t L_0;
 		L_0 = PlayerPrefs_GetInt_m8AD1FA8BA54CC6CE2B2AEEE36B6D75587BB1692D(_stringLiteral79B0BC20C4F38EB2142290F5EFAB4EF138899A9B, 0, NULL);
 		V_0 = L_0;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:168>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:167>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = __this->___canvas;
 		NullCheck(L_1);
 		Points_tF10CC61A9E818CA28C573D89F911610BFDB894F8* L_2;
@@ -8513,7 +8512,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_SaveHighScore_m2D8EE0E26EBF31EE
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:170>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:169>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_5 = __this->___canvas;
 		NullCheck(L_5);
 		Points_tF10CC61A9E818CA28C573D89F911610BFDB894F8* L_6;
@@ -8521,13 +8520,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman_SaveHighScore_m2D8EE0E26EBF31EE
 		NullCheck(L_6);
 		int32_t L_7 = L_6->___score;
 		PlayerPrefs_SetInt_m956D3E2DB966F20CF42F842880DDF9E2BE94D948(_stringLiteral79B0BC20C4F38EB2142290F5EFAB4EF138899A9B, L_7, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:171>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:170>
 		PlayerPrefs_Save_m82567E045D69C838112EA204B60C144D4C1EA3AE(NULL);
 	}
 
 IL_003e:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:173>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:172>
 		return;
 	}
 }
@@ -8537,13 +8536,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Stickman_loadScene_m20A8A9B1BC
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65* L_0 = (U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65*)il2cpp_codegen_object_new(U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65_il2cpp_TypeInfo_var);
-		U3CloadSceneU3Ed__24__ctor_m9423B472E3F783FD3759DEAFD3D1D92C0A7E7021(L_0, 0, NULL);
-		U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65* L_1 = L_0;
+		U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C* L_0 = (U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C*)il2cpp_codegen_object_new(U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C_il2cpp_TypeInfo_var);
+		U3CloadSceneU3Ed__23__ctor_mD3749E63466C4913EF74FC4A3E354FDD5C841EF8(L_0, 0, NULL);
+		U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C* L_1 = L_0;
 		NullCheck(L_1);
 		L_1->___U3CU3E4__this = __this;
 		Il2CppCodeGenWriteBarrier((void**)(&L_1->___U3CU3E4__this), (void*)__this);
@@ -8569,7 +8568,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Stickman__ctor_m5275FA7D7E2BAD6358C093D5
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 // Method Definition Index: 66845
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCountdownRoutineU3Ed__16__ctor_mC7F3961DF3EC37F6057F335C15CC073C63ADB8C3 (U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCountdownRoutineU3Ed__15__ctor_mE6C2C4AED50637B23F8BF604BE1DC4163236FFE1 (U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
 		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
@@ -8579,14 +8578,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCountdownRoutineU3Ed__16__ctor_mC7F39
 	}
 }
 // Method Definition Index: 66846
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCountdownRoutineU3Ed__16_System_IDisposable_Dispose_mBC67D638967F75BCB1CA89F2E63706A574A705E8 (U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCountdownRoutineU3Ed__15_System_IDisposable_Dispose_mD621165248310E7853B5275B029D4495D5B2513B (U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
 // Method Definition Index: 66847
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CCountdownRoutineU3Ed__16_MoveNext_m7DF1AA6A0389597CB155EF17A3B620452C7815C4 (U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CCountdownRoutineU3Ed__15_MoveNext_m50B49EEAA5FAEF4A2A8B7711133C9D3180757F82 (U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -8637,13 +8636,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CCountdownRoutineU3Ed__16_MoveNext_m7D
 IL_0026:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:34>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:33>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_3 = V_1;
 		NullCheck(L_3);
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_4 = L_3->___countDown;
 		NullCheck(L_4);
 		VirtualActionInvoker1< String_t* >::Invoke(75, L_4, _stringLiteralC5C8331DE14DF6D487207B774B9829BAC7367A3F);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:35>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:34>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_5 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_5, (1.0f), NULL);
 		__this->___U3CU3E2__current = L_5;
@@ -8655,14 +8654,14 @@ IL_0026:
 IL_0056:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:37>
-		__this->___U3CcountU3E5__2 = 5;
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:36>
+		__this->___U3CcountU3E5__2 = 3;
 		goto IL_00b5;
 	}
 
 IL_0066:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:39>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:38>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_6 = V_1;
 		NullCheck(L_6);
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_7 = L_6->___countDown;
@@ -8688,7 +8687,7 @@ IL_0080:
 	{
 		NullCheck(G_B6_1);
 		VirtualActionInvoker1< String_t* >::Invoke(75, G_B6_1, G_B6_0);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:40>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:39>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_11 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_11, (1.0f), NULL);
 		__this->___U3CU3E2__current = L_11;
@@ -8700,7 +8699,7 @@ IL_0080:
 IL_009e:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:37>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:36>
 		int32_t L_12 = __this->___U3CcountU3E5__2;
 		V_2 = L_12;
 		int32_t L_13 = V_2;
@@ -8709,7 +8708,7 @@ IL_009e:
 
 IL_00b5:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:37>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:36>
 		int32_t L_14 = __this->___U3CcountU3E5__2;
 		if ((((int32_t)L_14) > ((int32_t)0)))
 		{
@@ -8717,15 +8716,15 @@ IL_00b5:
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:43>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:42>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_15 = V_1;
 		NullCheck(L_15);
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_16 = L_15->___countDown;
 		NullCheck(L_16);
 		VirtualActionInvoker1< String_t* >::Invoke(75, L_16, _stringLiteral5C961241AA80EC1712DB4BBA0A3A10524D4EF5EF);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:44>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:43>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_17 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
-		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_17, (0.100000001f), NULL);
+		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_17, (0.200000003f), NULL);
 		__this->___U3CU3E2__current = L_17;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)L_17);
 		__this->___U3CU3E1__state = 3;
@@ -8735,7 +8734,7 @@ IL_00b5:
 IL_00e7:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:45>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:44>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_18 = V_1;
 		NullCheck(L_18);
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_19 = L_18->___countDown;
@@ -8744,7 +8743,7 @@ IL_00e7:
 		L_20 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_19, NULL);
 		NullCheck(L_20);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_20, (bool)0, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:46>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:45>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_21 = V_1;
 		NullCheck(L_21);
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_22 = L_21->___dead_Fx;
@@ -8753,7 +8752,7 @@ IL_00e7:
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_24 = (L_22)->GetAt(static_cast<il2cpp_array_size_t>(L_23));
 		NullCheck(L_24);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_24, (bool)1, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:47>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:46>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_25 = V_1;
 		NullCheck(L_25);
 		Text_tD60B2346DAA6666BF0D822FF607F0B220C2B9E62* L_26 = L_25->___score;
@@ -8762,12 +8761,12 @@ IL_00e7:
 		L_27 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_26, NULL);
 		NullCheck(L_27);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_27, (bool)1, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:48>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:47>
 		return (bool)0;
 	}
 }
 // Method Definition Index: 66848
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CCountdownRoutineU3Ed__16_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m16312C0EFEAB4A2FC03656D943F1AC4AC0D5AB64 (U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CCountdownRoutineU3Ed__15_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m7C29795B633035B5C758CF9ABA27750BEAB00D11 (U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current;
@@ -8775,16 +8774,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CCountdownRoutineU3Ed__16_Sy
 	}
 }
 // Method Definition Index: 66849
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCountdownRoutineU3Ed__16_System_Collections_IEnumerator_Reset_mBD15D162FF048178D00E22B5EC7BA62E647AEDE9 (U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CCountdownRoutineU3Ed__15_System_Collections_IEnumerator_Reset_m450285B928F8DE3BF6E24917CE9D01B14E811ABD (U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7* __this, const RuntimeMethod* method) 
 {
 	{
 		NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A* L_0 = (NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A_il2cpp_TypeInfo_var)));
 		NotSupportedException__ctor_m1398D0CDE19B36AA3DE9392879738C1EA2439CDF(L_0, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CCountdownRoutineU3Ed__16_System_Collections_IEnumerator_Reset_mBD15D162FF048178D00E22B5EC7BA62E647AEDE9_RuntimeMethod_var)));
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CCountdownRoutineU3Ed__15_System_Collections_IEnumerator_Reset_m450285B928F8DE3BF6E24917CE9D01B14E811ABD_RuntimeMethod_var)));
 	}
 }
 // Method Definition Index: 66850
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CCountdownRoutineU3Ed__16_System_Collections_IEnumerator_get_Current_m69D73E26BEFD4641A39974798E5BBBB0CBE75663 (U3CCountdownRoutineU3Ed__16_t70EBA71EFB87FE591A5D01E6B8BB1B31408C4892* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CCountdownRoutineU3Ed__15_System_Collections_IEnumerator_get_Current_mAA80A8990B35848570DC5DA2685CEB299FD73C07 (U3CCountdownRoutineU3Ed__15_t6E05FC64AC8A83CDB3766D5BAF517781746B1BF7* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current;
@@ -8800,7 +8799,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CCountdownRoutineU3Ed__16_Sy
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 // Method Definition Index: 66851
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CResetOnitGuardU3Ed__22__ctor_mBF3FC873073EA897E4223527ED56E42731DDBC17 (U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CResetOnitGuardU3Ed__21__ctor_m9343858251B4E546126E36CBB77D7A16BC4C2311 (U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
 		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
@@ -8810,14 +8809,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CResetOnitGuardU3Ed__22__ctor_mBF3FC87
 	}
 }
 // Method Definition Index: 66852
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CResetOnitGuardU3Ed__22_System_IDisposable_Dispose_m2B9B859CE4DBE4E7C31C524B08A2D7E26ED87EFE (U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CResetOnitGuardU3Ed__21_System_IDisposable_Dispose_m82328A6D0D54C8F1752A17CC72EA6E0D2B6C7880 (U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
 // Method Definition Index: 66853
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CResetOnitGuardU3Ed__22_MoveNext_m194F7DD34DAA1C3B2756B16EF19B3353549A1E4B (U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CResetOnitGuardU3Ed__21_MoveNext_mEC66F7BCA5B9A7EDBC1A404DD0F3B5076E0290BF (U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -8852,7 +8851,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CResetOnitGuardU3Ed__22_MoveNext_m194F
 IL_0017:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:161>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:160>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_4 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_4, (0.600000024f), NULL);
 		__this->___U3CU3E2__current = L_4;
@@ -8864,16 +8863,16 @@ IL_0017:
 IL_0037:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:162>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:161>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_5 = V_1;
 		NullCheck(L_5);
 		L_5->___processingOnit = (bool)0;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:163>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:162>
 		return (bool)0;
 	}
 }
 // Method Definition Index: 66854
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CResetOnitGuardU3Ed__22_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m88D6797909925BB4E77C566F7EA4E301077B7561 (U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CResetOnitGuardU3Ed__21_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m2ABB4F961FF31EADE0B3F15ECA0CB5BE4E12ACC4 (U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current;
@@ -8881,16 +8880,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CResetOnitGuardU3Ed__22_Syst
 	}
 }
 // Method Definition Index: 66855
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CResetOnitGuardU3Ed__22_System_Collections_IEnumerator_Reset_m3202E7A71A6C3708B2D74A9EA4B1A94267B4D16B (U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CResetOnitGuardU3Ed__21_System_Collections_IEnumerator_Reset_mA82D66A052DBF1190FD496DAC56D0779630A903B (U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300* __this, const RuntimeMethod* method) 
 {
 	{
 		NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A* L_0 = (NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A_il2cpp_TypeInfo_var)));
 		NotSupportedException__ctor_m1398D0CDE19B36AA3DE9392879738C1EA2439CDF(L_0, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CResetOnitGuardU3Ed__22_System_Collections_IEnumerator_Reset_m3202E7A71A6C3708B2D74A9EA4B1A94267B4D16B_RuntimeMethod_var)));
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CResetOnitGuardU3Ed__21_System_Collections_IEnumerator_Reset_mA82D66A052DBF1190FD496DAC56D0779630A903B_RuntimeMethod_var)));
 	}
 }
 // Method Definition Index: 66856
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CResetOnitGuardU3Ed__22_System_Collections_IEnumerator_get_Current_mC5672594B365B3F068FF7404E1B6434174B84C11 (U3CResetOnitGuardU3Ed__22_t9F7BDD315A869AE38563C86A204376279F672423* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CResetOnitGuardU3Ed__21_System_Collections_IEnumerator_get_Current_m75000ADACA3BFA6A504FA7C132D2E53B78C1730C (U3CResetOnitGuardU3Ed__21_t23FD877FBCE2C2163E2A82B7A1212A645647E300* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current;
@@ -8906,7 +8905,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CResetOnitGuardU3Ed__22_Syst
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 // Method Definition Index: 66857
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CRunfxU3Ed__18__ctor_m96AB43A9606E49CF2E36680C7C79EF50CD2C6BBE (U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CRunfxU3Ed__17__ctor_m8D503E4822421AF85D452A6B75C25C11429C00B2 (U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
 		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
@@ -8916,14 +8915,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CRunfxU3Ed__18__ctor_m96AB43A9606E49CF
 	}
 }
 // Method Definition Index: 66858
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CRunfxU3Ed__18_System_IDisposable_Dispose_m1F577A9B14B581238FC1CBAEB427C611EF77C7EC (U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CRunfxU3Ed__17_System_IDisposable_Dispose_m037CE22ABFE52790D228C44C35B4E19E5BF8CD34 (U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
 // Method Definition Index: 66859
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CRunfxU3Ed__18_MoveNext_mD527DF65B71B8C24E391D2CA98E97059C2F69B66 (U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CRunfxU3Ed__17_MoveNext_mBB77784CF75F8E439C588C39C1D27E43558BC026 (U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -8960,7 +8959,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CRunfxU3Ed__18_MoveNext_mD527DF65B71B8
 IL_0017:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:71>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:70>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_4 = V_1;
 		NullCheck(L_4);
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_5 = L_4->___impact_fx;
@@ -8971,13 +8970,13 @@ IL_0017:
 
 IL_0029:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:71>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:70>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_6 = V_2;
 		int32_t L_7 = V_3;
 		NullCheck(L_6);
 		int32_t L_8 = L_7;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_9 = (L_6)->GetAt(static_cast<il2cpp_array_size_t>(L_8));
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:72>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:71>
 		NullCheck(L_9);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_9, (bool)1, NULL);
 		int32_t L_10 = V_3;
@@ -8986,7 +8985,7 @@ IL_0029:
 
 IL_0036:
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:71>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:70>
 		int32_t L_11 = V_3;
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_12 = V_2;
 		NullCheck(L_12);
@@ -8996,7 +8995,7 @@ IL_0036:
 		}
 	}
 	{
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:73>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:72>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_13 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_13, (0.200000003f), NULL);
 		__this->___U3CU3E2__current = L_13;
@@ -9008,16 +9007,16 @@ IL_0036:
 IL_0055:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:74>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:73>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_14 = V_1;
 		NullCheck(L_14);
 		L_14->___impact = (bool)0;
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:75>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:74>
 		return (bool)0;
 	}
 }
 // Method Definition Index: 66860
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CRunfxU3Ed__18_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m8F5FBB73A6403574900B7BA186B95442BE1C9CD7 (U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CRunfxU3Ed__17_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m139A0062C2352A300441AEF44CF05CBC56BD635C (U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current;
@@ -9025,16 +9024,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CRunfxU3Ed__18_System_Collec
 	}
 }
 // Method Definition Index: 66861
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CRunfxU3Ed__18_System_Collections_IEnumerator_Reset_mDD87FB7737E96F02289163CD367F8684EB8338EB (U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CRunfxU3Ed__17_System_Collections_IEnumerator_Reset_m9AD7FDB72813DE3B7CD542775F5B9B867671E63A (U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935* __this, const RuntimeMethod* method) 
 {
 	{
 		NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A* L_0 = (NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A_il2cpp_TypeInfo_var)));
 		NotSupportedException__ctor_m1398D0CDE19B36AA3DE9392879738C1EA2439CDF(L_0, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CRunfxU3Ed__18_System_Collections_IEnumerator_Reset_mDD87FB7737E96F02289163CD367F8684EB8338EB_RuntimeMethod_var)));
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CRunfxU3Ed__17_System_Collections_IEnumerator_Reset_m9AD7FDB72813DE3B7CD542775F5B9B867671E63A_RuntimeMethod_var)));
 	}
 }
 // Method Definition Index: 66862
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CRunfxU3Ed__18_System_Collections_IEnumerator_get_Current_m85621C29358A5D27CC42E0FCDD31AAC3276A6394 (U3CRunfxU3Ed__18_tA7D14A9A55E5CC284643975681466923A176E6E0* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CRunfxU3Ed__17_System_Collections_IEnumerator_get_Current_m1410EDAD9EC3E5871AB48BC54E465CEA687675CA (U3CRunfxU3Ed__17_tD66199022B780BA714063CB06E9E67CCFEC0A935* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current;
@@ -9050,7 +9049,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CRunfxU3Ed__18_System_Collec
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 // Method Definition Index: 66863
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CloadSceneU3Ed__24__ctor_m9423B472E3F783FD3759DEAFD3D1D92C0A7E7021 (U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CloadSceneU3Ed__23__ctor_mD3749E63466C4913EF74FC4A3E354FDD5C841EF8 (U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
 		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
@@ -9060,14 +9059,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CloadSceneU3Ed__24__ctor_m9423B472E3F7
 	}
 }
 // Method Definition Index: 66864
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CloadSceneU3Ed__24_System_IDisposable_Dispose_mF4F4FB6366E01BE6142685EE1CF44060789771A7 (U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CloadSceneU3Ed__23_System_IDisposable_Dispose_mFCB3F7FB447A3B6383C84B7026EEC977AC092895 (U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
 // Method Definition Index: 66865
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CloadSceneU3Ed__24_MoveNext_mCC95C2FFBFA58287CE800FFADE669C5F31B0DB52 (U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CloadSceneU3Ed__23_MoveNext_mD1B030F8CF7B35E0F65C1A883237057593406B64 (U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -9104,19 +9103,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CloadSceneU3Ed__24_MoveNext_mCC95C2FFB
 IL_0017:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:177>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:176>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_4 = V_1;
 		NullCheck(L_4);
 		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_5 = L_4->___rb;
 		NullCheck(L_5);
 		Rigidbody_set_useGravity_m1B1B22E093F9DC92D7BEEBBE6B02642B3B6C4389(L_5, (bool)0, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:178>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:177>
 		Stickman_t00710C0C7443EA8D0F18BC2C5C7F7ECE399AD977* L_6 = V_1;
 		NullCheck(L_6);
 		Rigidbody_t268697F5A994213ED97393309870968BC1C7393C* L_7 = L_6->___rb;
 		NullCheck(L_7);
 		Rigidbody_set_constraints_mE81BF0DAEB980E320538231E092CA4663885A9A3(L_7, ((int32_t)14), NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:179>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:178>
 		WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3* L_8 = (WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3*)il2cpp_codegen_object_new(WaitForSeconds_tF179DF251655B8DF044952E70A60DF4B358A3DD3_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m579F95BADEDBAB4B3A7E302C6EE3995926EF2EFC(L_8, (2.5f), NULL);
 		__this->___U3CU3E2__current = L_8;
@@ -9128,15 +9127,15 @@ IL_0017:
 IL_0050:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:180>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:179>
 		il2cpp_codegen_runtime_class_init_inline(SceneManager_tA0EF56A88ACA4A15731AF7FDC10A869FA4C698FA_il2cpp_TypeInfo_var);
 		SceneManager_LoadScene_mBB3DBC1601A21F8F4E8A5D68FED30EA9412F218E(_stringLiteral079998E3393B6BDC1FAFFA63A54F724488AE5306, NULL);
-		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:181>
+		//<source_info:C:/Users/risha/Downloads/Stickman-Stack-Game-main/Assets/Scripts/Stickman.cs:180>
 		return (bool)0;
 	}
 }
 // Method Definition Index: 66866
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CloadSceneU3Ed__24_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mCB5AB76CFB25989D1CB0295FA343A8EF64B930A6 (U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CloadSceneU3Ed__23_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m5548B1279A75BF38DC7AF25B5013A7F9BC37896D (U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current;
@@ -9144,16 +9143,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CloadSceneU3Ed__24_System_Co
 	}
 }
 // Method Definition Index: 66867
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CloadSceneU3Ed__24_System_Collections_IEnumerator_Reset_mA2502F774A531D5F2EFD06DB4A5C9C37B2C3184B (U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CloadSceneU3Ed__23_System_Collections_IEnumerator_Reset_m0C69CAB659DB6BABCECEA40C93870E9187220506 (U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C* __this, const RuntimeMethod* method) 
 {
 	{
 		NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A* L_0 = (NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A_il2cpp_TypeInfo_var)));
 		NotSupportedException__ctor_m1398D0CDE19B36AA3DE9392879738C1EA2439CDF(L_0, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CloadSceneU3Ed__24_System_Collections_IEnumerator_Reset_mA2502F774A531D5F2EFD06DB4A5C9C37B2C3184B_RuntimeMethod_var)));
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CloadSceneU3Ed__23_System_Collections_IEnumerator_Reset_m0C69CAB659DB6BABCECEA40C93870E9187220506_RuntimeMethod_var)));
 	}
 }
 // Method Definition Index: 66868
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CloadSceneU3Ed__24_System_Collections_IEnumerator_get_Current_m4C21914B5768F2B1817FEC96ED3A23ECFF31DAF3 (U3CloadSceneU3Ed__24_t2CB10B017406F18BDE6F0EAEECC2BCE3B42B1C65* __this, const RuntimeMethod* method) 
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CloadSceneU3Ed__23_System_Collections_IEnumerator_get_Current_m09958CE5F2F1B5804CDF031C86BB67CDA2CC56B0 (U3CloadSceneU3Ed__23_t0C2E99F4992C417B14BEC08E2E5CDE67DE55DD4C* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current;
